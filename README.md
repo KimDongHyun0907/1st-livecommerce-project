@@ -1,4 +1,5 @@
-# 1st-livecommerce-project
+# 온프레미스 이커머스 환경에서 클라우드 기반의 라이브 커머스 플랫폼 구축
+## 팀명 : 1번가
 ## My Role
 ### CI/CD
 ![image](https://github.com/KimDongHyun0907/1st-livecommerce-project/assets/88826811/5f5d6fda-113c-41a2-afcb-747aff6dd2ab)
